@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/SmartObjectDiffKit.Sample.Console/SmartObjectDiffKit.Sample.Console.csproj" />
+    <Project Path="samples/SmartObjectDiffKit.Sample.WebApi/SmartObjectDiffKit.Sample.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/SmartObjectDiffKit/SmartObjectDiffKit.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SmartObjectDiffKit.Benchmarks/SmartObjectDiffKit.Benchmarks.csproj" />
+    <Project Path="tests/SmartObjectDiffKit.IntegrationTests/SmartObjectDiffKit.IntegrationTests.csproj" />
+    <Project Path="tests/SmartObjectDiffKit.UnitTests/SmartObjectDiffKit.UnitTests.csproj" />
+  </Folder>
+</Solution>
